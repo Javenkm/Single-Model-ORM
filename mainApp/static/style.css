@@ -1,0 +1,30 @@
+* {
+    width: 970px;
+    margin: auto;
+}
+
+#table {
+    display: flex;
+    justify-content: center;
+}
+
+#tbody {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+}
+
+#form {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 250px;
+}
+
+button {
+    width: 250px;
+}
